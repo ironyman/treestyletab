@@ -48,6 +48,38 @@
     "_execute_browser_action": {
       "suggested_key": { "default": "F1" },
       "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_go_prev": {
+      "suggested_key": { "default": "Ctrl+Shift+Up" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_go_next": {
+      "suggested_key": { "default": "Ctrl+Shift+Down" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_go_parent": {
+      "suggested_key": { "default": "Ctrl+Shift+Left" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_go_child": {
+      "suggested_key": { "default": "Ctrl+Shift+Right" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_move_prev": {
+      "suggested_key": { "default": "Alt+Shift+Up" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_move_next": {
+      "suggested_key": { "default": "Alt+Shift+Down" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_move_parent": {
+      "suggested_key": { "default": "Alt+Shift+Left" },
+      "description": "__MSG_sidebarToggleDescription__"
+    },
+    "tab_move_child": {
+      "suggested_key": { "default": "Alt+Shift+Right" },
+      "description": "__MSG_sidebarToggleDescription__"
     }
   },
   "options_ui": {
